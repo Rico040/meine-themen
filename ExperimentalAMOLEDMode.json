@@ -1,0 +1,83 @@
+{
+    "name": "\"Experimental\" AMOLED Mode",
+    "version": "1.0",
+    "description": "Made it because Discord can't colour entire app with Nitro themes 🙄",
+    "authors": [
+      {
+        "name": "Rico040",
+        "id": "619474349845643275"
+      }
+    ],
+    "semanticColors": {
+    
+      "BACKGROUND_PRIMARY": [
+        "#000000", false,"#000000"
+      ],
+      "BACKGROUND_SECONDARY": [
+        "#000000", false,"#000000"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+        "#0b0b0b", false,"#0b0b0b"
+      ],
+      "BACKGROUND_TERTIARY": [
+        "#000000", false,"#000000"
+      ],
+      "BACKGROUND_ACCENT": [
+        "#0b0b0b", false,"#0b0b0b"
+      ],
+      "BACKGROUND_FLOATING": [
+        "#000000", false,"#000000"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+         "#000000", false,"#000000"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+        "#000000", false,"#000000"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+        "#000000", false,"#000000"
+     
+      ],
+     
+      "BACKGROUND_MESSAGE": [
+        "#000000", false,"#000000"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+        "#000000", false,"#000000"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+        "#transparent", false,"#transparent"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+        "#transparent", false,"#transparent"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+        "#transparent", false,"#transparent"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+        "#transparent", false,"#transparent"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+        "#transparent", false,"#transparent"
+      ]
+    },
+    "rawColors": {
+      "PRIMARY_600": "#000000",
+      "PRIMARY_500": "#0B0B0B",
+      "PRIMARY_630": "#000000",
+      "PRIMARY_800": "#000000"
+    },
+    "unsafe_colors": {
+      "CHAT_GREY": "#000000"
+  },
+   
+    "background": {
+      "url": "https://i.redd.it/d596ve0ibhw21.jpg",
+      "blur": 1,
+      "alpha": 0.5
+  
+    },
+  
+    
+    "spec": 2
+  }
