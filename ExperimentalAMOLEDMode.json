@@ -22,7 +22,7 @@
         "#000000", false,"#000000"
       ],
       "BACKGROUND_ACCENT": [
-        "#0b0b0b", false,"#0b0b0b"
+        "#08080A", false,"#08080A"
       ],
       "BACKGROUND_FLOATING": [
         "#000000", false,"#000000"
@@ -58,12 +58,15 @@
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
         "#transparent", false,"#transparent"
-      ]
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
+      "SPOILER_REVEALED_BACKGROUND": ["#232428"]
     },
     "rawColors": {
       "PRIMARY_600": "#000000",
       "PRIMARY_500": "#0B0B0B",
       "PRIMARY_630": "#000000",
+      "PRIMARY_700": "#08080A",
       "PRIMARY_800": "#000000"
     },
     "unsafe_colors": {
