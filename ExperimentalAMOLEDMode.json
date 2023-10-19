@@ -1,6 +1,6 @@
 {
     "name": "\"Experimental\" AMOLED Mode",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Made it because Discord can't colour entire app with Nitro themes 🙄",
     "authors": [
       {
@@ -8,6 +8,7 @@
         "id": "619474349845643275"
       }
     ],
+    "spec": 2,
     "semanticColors": {
       "BACKGROUND_PRIMARY": [
         "#000000", false,"#000000"
@@ -70,6 +71,5 @@
     },
     "unsafe_colors": {
       "CHAT_GREY": "#000000"
-  },
-    "spec": 2
   }
+}
