@@ -10,55 +10,8 @@
     ],
     "spec": 2,
     "semanticColors": {
-      "BACKGROUND_PRIMARY": [
-        "#000000", false,"#000000"
-      ],
-      "BACKGROUND_SECONDARY": [
-        "#000000", false,"#000000"
-      ],
-      "BACKGROUND_SECONDARY_ALT": [
-        "#0b0b0b", false,"#08080A"
-      ],
-      "BACKGROUND_TERTIARY": [
-        "#000000", false,"#000000"
-      ],
-      "BACKGROUND_ACCENT": [
-        "#08080A", false,"#08080A"
-      ],
-      "BACKGROUND_FLOATING": [
-        "#000000", false,"#000000"
-      ],
-      "BACKGROUND_MOBILE_PRIMARY": [
-         "#000000", false,"#000000"
-      ],
-      "BACKGROUND_MOBILE_SECONDARY": [
-        "#000000", false,"#000000"
-      ],
-      "BACKGROUND_NESTED_FLOATING": [
-        "#000000", false,"#000000"
-      ],
-     
-      "BACKGROUND_MESSAGE": [
-        "#000000", false,"#000000"
-      ],
-      "BACKGROUND_MODIFIER_SELECTED": [
-        "#000000", false,"#000000"
-      ],
-      "SCROLLBAR_THIN_THUMB": [
-        "#transparent", false,"#transparent"
-      ],
-      "SCROLLBAR_THIN_TRACK": [
-        "#transparent", false,"#transparent"
-      ],
-      "SCROLLBAR_AUTO_THUMB": [
-        "#transparent", false,"#transparent"
-      ],
-      "SCROLLBAR_AUTO_TRACK": [
-        "#transparent", false,"#transparent"
-      ],
-      "CHANNELTEXTAREA_BACKGROUND": [
-        "#transparent", false,"#transparent"
-      ],
+      "BACKGROUND_PRIMARY": ["#000000"],
+      "BACKGROUND_SECONDARY": ["#08080A"],
       "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
       "SPOILER_REVEALED_BACKGROUND": ["#232428"]
     },
