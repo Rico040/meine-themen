@@ -1,0 +1,23 @@
+{
+    "spec": 1,
+    "name": "Papyrus",
+    "previewText": "what if instead of pyoncord we had freakycord",
+    "main": {
+        "ggsans-Bold": "https://rico040.su/files/Papyrus.ttf",
+        "ggsans-BoldItalic": "https://rico040.su/files/Papyrus.ttf",
+        "ggsans-ExtraBold": "https://rico040.su/files/Papyrus.ttf",
+        "ggsans-ExtraBoldItalic": "https://rico040.su/files/Papyrus.ttf",
+        "ggsans-Medium": "https://rico040.su/files/Papyrus.ttf",
+        "ggsans-MediumItalic": "https://rico040.su/files/Papyrus.ttf",
+        "ggsans-Normal": "https://rico040.su/files/Papyrus.ttf",
+        "ggsans-NormalItalic": "https://rico040.su/files/Papyrus.ttf",
+        "ggsans-Semibold": "https://rico040.su/files/Papyrus.ttf",
+        "ggsans-SemiboldItalic": "https://rico040.su/files/Papyrus.ttf",
+        "NotoSans-Bold": "https://rico040.su/files/Papyrus.ttf",
+        "NotoSans-ExtraBold": "https://rico040.su/files/Papyrus.ttf",
+        "NotoSans-Medium": "https://rico040.su/files/Papyrus.ttf",
+        "NotoSans-Normal": "https://rico040.su/files/Papyrus.ttf",
+        "NotoSans-NormalItalic": "https://rico040.su/files/Papyrus.ttf",
+        "NotoSans-Semibold": "https://rico040.su/files/Papyrus.ttf"
+    }
+}
